@@ -1,4 +1,4 @@
-?php
+<?php
 include_once("header.php");
 ?>
 <div>this is home</div>
